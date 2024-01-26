@@ -10,6 +10,9 @@ Conducted correlation analysis. Created a heatmap for selected variables. Visual
 Selected relevant features for the model. Trained a Linear Regression model using sklearn. Evaluated the model with metrics:
 R_Square value: 97.07%
 Root Mean Squared Error (RMSE): 260.58
-# Conclusion:
+## Conclusion:
 The KNN Regression model achieved a satisfactory R-squared score of 97.07% indicating its capability to predict the House price in Bangalore. The RMSE value of 206.28 provides an understanding of the model's prediction accuracy. Further analysis and model refinement can be explored to enhance predictive capabilities.
+
+## Predict result for saved model:
+Some data was fed into the model and the model predicted the most accurate results for the dataset. 
 
